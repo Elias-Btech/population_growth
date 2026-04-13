@@ -125,13 +125,13 @@ population_growth/
 ![Population Growth Curve](results/population_growth_curve.png)
 
 ### Terminal Output — Fibonacci Results
-![Terminal Fibonacci](screenshots/terminal_fibonacci.png)
+![Terminal Fibonacci](screenshots/terminal_fibonacci.jpg)
 
-### Terminal Output — Power Results
-![Terminal Power](screenshots/terminal_power.png)
+### Terminal Output — Fibonacci Detailed Results
+![Terminal Fibonacci Detail](screenshots/terminal_fibonacci_detail.jpg)
 
-### Terminal Output — Summary
-![Terminal Summary](screenshots/terminal_summary.png)
+### Terminal Output — Power Results & Summary
+![Terminal Power Summary](screenshots/terminal_power_summary.jpg)
 
 ---
 
