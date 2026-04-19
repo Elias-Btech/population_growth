@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Iterative vs Recursive Population Growth Prediction
 
 ## Description
@@ -155,4 +155,4 @@ This project is for educational purposes only.
 =======
 # population_growth
 A Python-based simulation analyzing population growth using Iterative and Recursive algorithms, featuring performance benchmarking and data visualization.
->>>>>>> f9309a513d2af39cfc68b5814371298e3fb7a6ad
+
