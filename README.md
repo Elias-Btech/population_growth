@@ -66,7 +66,7 @@ cd population_growth
 
 2️⃣ **Install dependencies** (optional, for charts)
 ```bash
-pip install matplotlib
+pip install -r requirements.txt
 ```
 
 3️⃣ **Run the project**
@@ -88,6 +88,7 @@ population_growth/
 │
 ├── 📖 README.md                  # Project documentation
 ├── 📑 Report.pdf                 # Academic report
+├── 📋 requirements.txt           # Python dependencies
 ├── 🚫 .gitignore                 # Git exclusions
 │
 ├── 📸 screenshots/               # Terminal output screenshots
