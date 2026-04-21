@@ -92,6 +92,7 @@ population_growth/
 ├── 🚫 .gitignore                 # Git exclusions
 │
 ├── 📸 screenshots/               # Terminal output screenshots
+│   ├── terminal_start.jpg
 │   ├── terminal_fibonacci.jpg
 │   ├── terminal_fibonacci_detail.jpg
 │   └── terminal_power_summary.jpg
@@ -144,6 +145,9 @@ The program will automatically:
 
 <details>
 <summary>📸 Click to view terminal screenshots</summary>
+
+### Program Start
+![Terminal Start](screenshots/terminal_start.jpg)
 
 ### Fibonacci Results
 ![Terminal Fibonacci](screenshots/terminal_fibonacci.jpg)
