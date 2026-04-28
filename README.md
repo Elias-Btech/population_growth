@@ -178,11 +178,11 @@ The program will automatically:
 
 ## 👥 Authors
 
-| Name | Student ID | Role |
-|---|---|---|
-| **Elias Araya** | Aku1601720 | Lead Developer |
-| **Mulu G/Medhin** | Aku1602465 | Algorithm Design |
-| **Arsema Birhane** | Aku1602222 | Data Analysis |
+| Name | Student ID |
+|---|---|
+| **Elias Araya** | Aku1601720 |
+| **Mulu G/Medhin** | Aku1602465 |
+| **Arsema Birhane** | Aku160222 |
 
 **Institution:** Aksum University  
 **Course:** Design and Analysis of Algorithms (DAA)  
