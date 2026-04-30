@@ -182,7 +182,7 @@ The program will automatically:
 |---|---|
 | **Elias Araya** | Aku1601720 |
 | **Mulu G/Medhin** | Aku1602465 |
-| **Arsema Birhane** | Aku160222 |
+| **Arsema Birhane** | Aku1602222 |
 
 **Institution:** Aksum University  
 **Course:** Design and Analysis of Algorithms (DAA)  
